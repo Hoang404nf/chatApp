@@ -33,7 +33,7 @@ Installation
 Clone the repository:
 
 Bash
-git clone https://github.com/hoang9498/chatApp.git
+git clone https://github.com/hoang404nf/chatApp.git
 cd chat-app
 Restore dependencies:
 
